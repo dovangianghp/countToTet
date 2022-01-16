@@ -9,7 +9,7 @@ body{
     justify-content: center;
     background-size: cover;
     font-family:'Gluten', cursive;;
-    background-image: url(../asset/background.jpg);
+    background-image: url(asset/background.jpg);
 }
 
 .box{
